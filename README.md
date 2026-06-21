@@ -1,7 +1,9 @@
 # 🌐 Multi-Page Website Project
 
+**Synent Technologies Internship Task 7 - Multi Page Website (Frontend Development Project)**
+
 A responsive multi-page website built using **HTML, CSS, and JavaScript**.  
-This project is designed for internship practice and portfolio building.
+The project includes multiple pages, reusable navigation, service cards, and JavaScript form validation.
 
 ---
 
